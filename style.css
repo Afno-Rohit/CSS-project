@@ -1,16 +1,14 @@
-h1{
+
+  #box {
+    background-color: blue; 
+    color: white; 
+    padding: 20px;
+  }
+
+  .Heading {
     color:red;
 }
 
-p{
-    color:blueviolet;
-}
-
-button{
-    color:rgb(51, 4, 13);
-    background-color: rgb(96, 57, 57);
-}
-
-body{
-    background-color: #d2c393;
+button {
+    background-color: green;
 }

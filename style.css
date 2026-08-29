@@ -12,3 +12,17 @@
 button {
     background-color: green;
 }
+
+.Heading
+{
+    text-align: center;
+}
+
+.Heading
+{
+    text-transform: capitalize;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
